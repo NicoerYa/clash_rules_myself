@@ -3,12 +3,12 @@
 DOMAIN-KEYWORD,hacg
 
 #模糊匹配
-DOMAIN-SUFFIX,playzip.com
-DOMAIN-SUFFIX,hacg.me
+#DOMAIN-SUFFIX,playzip.com
+#DOMAIN-SUFFIX,hacg.me
 
 #精确匹配
-DOMAIN,q.hacg.pics
-DOMAIN,1.hacg.pics
+#DOMAIN,q.hacg.pics
+#DOMAIN,1.hacg.pics
 
 
 
