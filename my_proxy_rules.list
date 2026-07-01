@@ -1,4 +1,7 @@
 # 我的自定义代理列表
+#关键词匹配
+#DOMAIN-KEYWORD,hacg
+
 #模糊匹配
 DOMAIN-SUFFIX,playzip.com
 DOMAIN-SUFFIX,hacg.me
@@ -6,8 +9,7 @@ DOMAIN-SUFFIX,hacg.me
 #精确匹配
 DOMAIN,q.hacg.pics
 DOMAIN,1.hacg.pics
-#关键词匹配
-#DOMAIN-KEYWORD,hacg
+
 
 
 #ip匹配
