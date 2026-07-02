@@ -26,8 +26,8 @@ DOMAIN-SUFFIX,towpay.co.kr
 #边狱巴士下载
 DOMAIN-SUFFIX,downloadfmod.limbuscompanycdn.org
 
-#模糊匹配
-#DOMAIN-SUFFIX,
+#涩涩
+DOMAIN-SUFFIX,av-wiki.net
 #DOMAIN-SUFFIX,
 
 #精确匹配
