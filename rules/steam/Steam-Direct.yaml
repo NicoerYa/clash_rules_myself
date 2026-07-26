@@ -1,0 +1,30 @@
+payload:
+
+  # ======================
+  # Steam 中国 CDN
+  # ======================
+  - DOMAIN-SUFFIX,steam.clngaa.com
+  - DOMAIN-SUFFIX,ksyna.com
+  - DOMAIN-SUFFIX,bscstorage.net
+  - DOMAIN-SUFFIX,eccdnx.com
+  - DOMAIN-SUFFIX,pinyuncloud.com
+
+
+  # ======================
+  # Steam 下载服务器
+  # ======================
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,steampipe.akamaized.net
+
+
+  # ======================
+  # Steam 静态资源
+  # ======================
+  - DOMAIN-SUFFIX,steamstatic.com
+
+
+  # ======================
+  # 国内加速 CDN
+  # ======================
+  - DOMAIN-SUFFIX,steamcontent.com.8686c.com
+  - DOMAIN-SUFFIX,steampowered.com.8686c.com
