@@ -16,6 +16,9 @@ payload:
   - DOMAIN-SUFFIX,steam.to
   - DOMAIN,s.team
   - DOMAIN,steam.tv
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  
 
 
   # ============ Steam 登录 & API ============
