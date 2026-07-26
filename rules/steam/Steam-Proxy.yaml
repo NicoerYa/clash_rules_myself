@@ -1,1 +1,36 @@
+payload:
 
+  # ======================
+  # Steam 登录 / API
+  # ======================
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steam.tv
+
+
+  # ======================
+  # Steam 创意工坊
+  # ======================
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,steamcontent.com
+
+
+  # ======================
+  # Steam 好友 / 聊天
+  # ======================
+  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN,api.steampowered.com
+  - DOMAIN,api.steamcommunity.com
+
+
+  # ======================
+  # Steam WebSocket / 通知
+  # ======================
+  - DOMAIN,cm.steampowered.com
+  - DOMAIN,cm0.steampowered.com
+  - DOMAIN,cm1.steampowered.com
+  - DOMAIN,cm2.steampowered.com
+  - DOMAIN,cm3.steampowered.com
+  - DOMAIN,cm4.steampowered.com
