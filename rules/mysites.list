@@ -23,7 +23,7 @@ DOMAIN-SUFFIX,23qb.com
 DOMAIN-SUFFIX,x23qb.com
 
 #刮削网站
-#DOMAIN-SUFFIX,anidb.net
+DOMAIN-SUFFIX,anidb.net
 DOMAIN-SUFFIX,fanart.tv
 
 
