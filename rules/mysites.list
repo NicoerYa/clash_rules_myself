@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,x23qb.com
 
 #刮削网站
 #DOMAIN-SUFFIX,anidb.net
+#TMM图片刮削源
 DOMAIN-SUFFIX,fanart.tv
 
 
