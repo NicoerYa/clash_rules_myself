@@ -1,6 +1,6 @@
 # 我的自定义代理列表
 #黑名单漏网之鱼
-DOMAIN-KEYWORD,hacg
+DOMAIN-SUFFIX,hacg.me
 DOMAIN-KEYWORD,hlib
 DOMAIN-KEYWORD,acgyyg
 DOMAIN-KEYWORD,123av
