@@ -11,10 +11,10 @@ DOMAIN-SUFFIX,comicbavel.com
 DOMAIN-SUFFIX,kisssub.org
 
 #棕色尘埃2规则
-DOMAIN-SUFFIX,browndust2.com
-DOMAIN-SUFFIX,pmang.cloud
-DOMAIN-SUFFIX,neowiz.com
-DOMAIN-SUFFIX,towpay.co.kr
+#DOMAIN-SUFFIX,browndust2.com
+#DOMAIN-SUFFIX,pmang.cloud
+#DOMAIN-SUFFIX,neowiz.com
+#DOMAIN-SUFFIX,towpay.co.kr
 
 #边狱巴士下载
 #DOMAIN-SUFFIX,downloadfmod.limbuscompanycdn.org
